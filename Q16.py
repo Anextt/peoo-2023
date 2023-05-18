@@ -7,4 +7,4 @@ sub = n1 - n2
 
 print("Soma: ", soma)
 print("Multiplicação: ", mult)
-print("Subtração; ", sub)
+print("Subtração: ", sub)
